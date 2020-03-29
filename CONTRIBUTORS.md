@@ -15,6 +15,7 @@ Please follow this template:
 ---
 
 ## List of Contributors
+- Nemessis |https://GitHub.com/im-nemessis |nemessisx_#5047
 
 - Gavin | https://github.com/rgavinc | Gavin#6391
 - Amirdlz | https://github.com/aynorica | Amirdlz#6941
